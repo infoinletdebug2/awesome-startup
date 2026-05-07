@@ -167,7 +167,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 
 
 # Marketing Tools
-
+- [Peddlum](https://peddlum.com) - Marketplace and creator network where startups can sell digital products and recruit social media promoters.
 - [Buffer](https://buffer.com) - Social Media analytics and Scheduling
 - [BuzzSumo](https://buzzsumo.com) - Find Most Shared Content and Key Influencers
 - [QuickTwit](https://quicktwit.com) - Tools for finding Trends in Topics
